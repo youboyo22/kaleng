@@ -1,0 +1,33 @@
+{
+    "mnemonic": "amateur vast camera jewel park match play century road game deer crawl",
+    "rpc": "https://rpc-testnet.sei-apis.com",
+    "network": "atlantic-2",
+    "name": "kaleng",
+    "symbol": "klg",
+    "description": "",
+    "supply": 7,
+    "token_uri": "https://arweave.net/z55f81y8hTtqLU_fSWbQj6OFwc7Y5bS_v6M-pcP8vUI",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+    "iterated_uri": true,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-01-09T03:35:41Z",
+            "end_time": null
+        }
+    ]
+}
